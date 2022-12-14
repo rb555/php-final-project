@@ -1,0 +1,25 @@
+form{
+    padding: 10px;
+    max-width: 200px;
+    margin: 0 auto;
+  }
+  
+  form input{
+    margin-bottom: 15px;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box; 
+    border: 1 solid olivedrab; 
+    font-size: 14px;
+    resize: none; 
+  }
+  
+  form button {
+      display: block;
+      padding: 10px 45px 10px 45px;
+      border: 0;
+      font-size: 1em; 
+  }
+  form button:hover{
+      background-color: olivedrab;
+  }
