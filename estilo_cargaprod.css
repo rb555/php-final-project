@@ -1,0 +1,8 @@
+.mostrar_productos_carrito{
+    width: 280px;
+    height: 320px;
+    float: left;
+    margin: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+}
